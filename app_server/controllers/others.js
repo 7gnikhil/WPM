@@ -1,5 +1,5 @@
 const about = (req, res) => {
-res.render('index', { title: 'About' });
+res.render('generic-txt', { title: 'About' });
 };
 module.exports = {
 about
