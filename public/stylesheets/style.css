@@ -6,11 +6,13 @@ legend {
  font-family: 'Lobster', cursive;
 }
 .navbar {
- background-color: #ad1d28;
- border-color: #911821;
+  background-color: #ad1d28;
+  border-color: #911821;
+  padding-top: 0.2rem !important;
+  padding-bottom: 0.2rem !important;
 }
 .navbar-light .navbar-brand {
- font-family: 'Lobster', cursive;
+ font-family: 'Lobster  ', cursive;
   color: #fff;
 }
 .navbar-light .navbar-toggler {
@@ -79,6 +81,6 @@ a:hover {
 }
 body {
  font-family: "Cabin", Arial, sans-serif;
- color: #fff;
- background-color: #108a93;
+ color: black;
+ background-color: greenyellow;
 }
